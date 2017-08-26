@@ -12,29 +12,35 @@
   text-align: center;
 }
 
-2 .Meals {
+
+/*.Meals {
   color: white;
   text-align: center;
+}*/
+
+.col-md-3 {
+  padding-left: 0%;
+  padding-right: 0%;
+  margin: auto;
 }
 
 .happy-hour {
   color: black;
-  background-color: white);
-  background-size: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding-top: 6%;
-  padding-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 7%;
   text-align: center;
+  background-size: 100%;
+  font-size: 37px;
 }
 
 .party-time {
   background-color: #F15A29;
-  padding-top: 6%;
+  padding-top: 5%;
   padding-bottom: 5%;
   color: white;
   text-align: center;
   background-size: 100%;
+  font-size: 38px;
 }
 
 .breakfast {
@@ -44,8 +50,14 @@
   background-repeat: no-repeat;
   color: white;
   padding-top: 20%;
-  padding-bottom: 20%;
+  padding-bottom: 18.5%;
   text-align: center;
+  font-size: 37px;
+}
+
+.breakfast: hover {
+  opacity: 0.5;
+  color: #F15A29;
 }
 
 .lunch {
@@ -55,8 +67,9 @@
   background-repeat: no-repeat;
   color: white;
   padding-top: 20%;
-  padding-bottom: 20%;
+  padding-bottom: 18.5%;
   text-align: center;
+  font-size: 37px;
 }
 
 .dinner {
@@ -66,8 +79,9 @@
   background-repeat: no-repeat;
   color: white;
   padding-top: 20%;
-  padding-bottom: 20%;
+  padding-bottom: 18.5%;
   text-align: center;
+  font-size: 37px;
 }
 
 .col-md-6 {
@@ -86,7 +100,7 @@
 
 .fastFood {
   float: left;
-  margin-left: 1%;
+  margin-left: 4%;
   width: 65%;
 }
 
@@ -101,15 +115,5 @@
   float: left;
   border-radius: 0;
   box-shadow: 0 0 10px;
+  margin-left: 6%;
 }
-
-
-/*
-col-md-6 .well {
-  position: absolute;
-  box-shadow: 0px 0px 10px;
-  padding: 10%;
-  background-color: white;
-  border-radius: 0%;
-  float: right;
-}*/
