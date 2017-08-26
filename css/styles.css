@@ -90,6 +90,19 @@
   width: 65%;
 }
 
+.drinks {
+  float: right;
+  margin-left: 1%;
+  width: 65%;
+}
+
+.col-md-6 .drinks-pic .well {
+  background-color: white;
+  float: left;
+  border-radius: 0;
+  box-shadow: 0 0 10px;
+}
+
 
 /*
 col-md-6 .well {
