@@ -69,3 +69,34 @@
   padding-bottom: 20%;
   text-align: center;
 }
+
+.col-md-6 {
+  padding-left: 0%;
+  padding-right: 5%;
+  margin-top: 5%;
+  width: 50%;
+}
+
+.col-md-6 .fastFood-pic .well {
+  background-color: white;
+  float: right;
+  border-radius: 0;
+  box-shadow: 0 0 10px;
+}
+
+.fastFood {
+  float: left;
+  margin-left: 1%;
+  width: 65%;
+}
+
+
+/*
+col-md-6 .well {
+  position: absolute;
+  box-shadow: 0px 0px 10px;
+  padding: 10%;
+  background-color: white;
+  border-radius: 0%;
+  float: right;
+}*/
