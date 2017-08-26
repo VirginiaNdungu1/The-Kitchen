@@ -96,6 +96,7 @@
   float: right;
   border-radius: 0;
   box-shadow: 0 0 10px;
+  margin-right: 1%
 }
 
 .fastFood {
@@ -115,5 +116,15 @@
   float: left;
   border-radius: 0;
   box-shadow: 0 0 10px;
-  margin-left: 6%;
+  margin-left: 0.5%;
+}
+
+.menuItems {
+  margin-top: 5%;
+}
+
+.menuItems .well {
+  background-color: white;
+  margin-left: 15%;
+  margin-right: 15%;
 }
