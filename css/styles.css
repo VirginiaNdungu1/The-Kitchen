@@ -128,3 +128,43 @@
   margin-left: 15%;
   margin-right: 15%;
 }
+
+.menu {
+  background-image: url("../assets/backgrounds/foodsBg.jpg");
+  background-size: 100% 100%;
+  padding-top: 110px;
+  padding-bottom: 110px;
+  margin-top: 100px;
+  margin-left: -8%;
+  margin-right: -8%;
+}
+
+
+/*.menu .well {
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  border-radius: 0;
+  padding: 0px;
+}
+
+.nav-tabs li {
+  border-left: solid #c0c1c4 1px;
+  background-color: #e8e9ea;
+}
+
+.tab-content img {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.carousel-control.left, .carousel-control.right {
+  background-image: none;
+  width: 3%;
+}
+
+.tab-content p {
+  color: #F15A29;
+  font-size: 15px;
+}*/
