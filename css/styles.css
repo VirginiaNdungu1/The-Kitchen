@@ -161,3 +161,7 @@
   padding: 0px;
 >>>>>>> master
 }
+
+.item img {
+  width: 100%;
+}
