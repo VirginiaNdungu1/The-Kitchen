@@ -30,7 +30,7 @@ HTML
 Javascript
 Css
 
-#  click here [Anita's Kitchen](https://virginiandungu1.github.io/The-Kitchen/) to view the ping pong game.
+#  click here [Anita's Kitchen](https://virginiandungu1.github.io/The-Kitchen/) to view the Anita's Kitchen Website.
 # License
 
 # MIT (c) 2017 [Virginia Ndung'u](https://github.com/VirginiaNdungu1/The-Kitchen)
